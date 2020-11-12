@@ -11,6 +11,8 @@ helpfull to have.
 
 📫 If you want to reach me you can find me in: carloscordobaruiz@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCordoba96&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **CarlosCordoba96/CarlosCordoba96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
