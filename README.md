@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=CarlosCordoba96.CarlosCordoba96)
 
- 🔭 I’m currently working on Wenea Mobile Energy as DevOps and Cloud Engineer.
+ 🔭 I’m currently working as DevOps and Cloud Engineer.
 
 🌱 I’m currently learning different technologies like Docker, Python, Golang,
 PostgreSQL, terraform, Ansible. I love learning new things every day.
